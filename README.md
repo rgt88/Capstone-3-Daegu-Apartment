@@ -1,4 +1,4 @@
-# Capstone-3-Daegu-Apartment
+# Capstone-3-Daegu-Apartment Price Prediction
 
 **Context:**
 Apartments are one of the answers to the housing needs of modern society due to limited residential land and dense business activities in urban areas. Therefore, it will be very interesting to examine apartment prices influenced by various internal and external factors. 
